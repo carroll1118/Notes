@@ -15,6 +15,11 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记。
 ## ✏️ 算法
 * 剑指Offer
 * LeetCode
+## 📝 前端
+* HTML
+* CSS
+* JS
+* 框架
 ## ☕️ Java
 *  基础
 *  集合
@@ -39,6 +44,14 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记。
 ## ☁️ 微服务
 *  Spring Cloud
 *  Spring Cloud Alibaba
+## 📕 数据分析
+* Python
+* 爬虫
+* Numpy
+* Pandas
+* Matplotlib
+* 机器学习
+* 数据分析实战
 ## 🔧 开发工具
 *  Docker
 *  Maven
