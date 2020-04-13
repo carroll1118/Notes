@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <img src="https://cs-notes-1256109796.cos.ap-guangzhou.myqcloud.com/githubio/LogoMakr_0zpEzN.png" width="200px">
+    <img src="https://github.com/carroll1118/Notes/blob/master/assets/QQ%E5%9B%BE%E7%89%8720200413132308.jpg" width="200px">
 </div>
 
 # 📕 NoteBook
