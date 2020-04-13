@@ -25,7 +25,7 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记以�
 *  [Java集合](/notes/Java集合-目录.md)
 *  [Java线程](/notes/Java线程-目录.md)
 *  [Java异常](/notes/Java异常-目录.md)
-*  [Java I/O](/notes/Java I/O-目录.md)
+*  [Java I/O](/notes/JavaI/O-目录.md)
 ## 💾 数据库
 *  [MySQL](/notes/MySQL-目录.md)
 *  [Redis](/notes/Redis-目录.md)
@@ -33,17 +33,17 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记以�
 *  [Neo4j](/notes/Neo4j-目录.md)
 ## 📝 Web框架
 *  [Spring](/notes/Spring-目录.md)
-*  [Spring MVC](/notes/Spring MVC-目录.md)
+*  [Spring MVC](/notes/SpringMVC-目录.md)
 *  [Mybatis](/notes/Mybatis-目录.md)
-*  [Spring Boot](/notes/Spring Boot-目录.md)
+*  [Spring Boot](/notes/SpringBoot-目录.md)
 ## 🎨 分布式
 *  [Linux](/notes/Linux-目录.md)
 *  [Dubbo](/notes/Dubbo-目录.md)
 *  [Zookeeper](/notes/Zookeeper-目录.md)
 *  [Nginx](/notes/Nginx-目录.md)
 ## ☁️ 微服务
-*  [Spring Cloud](/notes/Spring Cloud-目录.md)
-*  [Spring Cloud Alibaba](/notes/Spring Cloud Alibaba-目录.md)
+*  [Spring Cloud](/notes/SpringCloud-目录.md)
+*  [Spring Cloud Alibaba](/notes/SpringCloudAlibaba-目录.md)
 ## 📕 数据分析
 * [Python](/notes/Python-目录.md)
 * [爬虫](/notes/爬虫-目录.md)
