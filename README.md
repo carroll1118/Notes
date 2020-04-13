@@ -1,3 +1,10 @@
+
+
+# 📕 NoteBook
+
+## 😊 介绍
+
+Carroll的学习笔记，主要用来存放一些在学习之中做的笔记。
 <br>
 
 | &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|         系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
@@ -6,15 +13,6 @@
 
 <br>
 
-<div align="center">
-    <img src="https://github.com/carroll1118/Notes/blob/master/assets/QQ%E5%9B%BE%E7%89%8720200413132308.jpg" width="200px">
-</div>
-
-# 📕 NoteBook
-
-## 😊 介绍
-
-Carroll的学习笔记，主要用来存放一些在学习之中做的笔记。
 
 ## 📝 笔记
 
