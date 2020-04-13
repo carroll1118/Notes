@@ -1,4 +1,3 @@
-﻿@[toc]
 ### BeanFactory 和 ApplicationContext 有什么区别
 * BeanFactory 可以理解为含有 bean 集合的工厂类。BeanFactory 包含了 bean 的定义，以便在接收到客户端请求时将对应的 bean 实例化。
 * BeanFactory 还能在实例化对象的时生成协作类之间的关系。此举将 bean 自身与 bean 客户端的配置中解放出来。BeanFactory 还包含了 bean 生命周期的控制，调用客户端的初始化方法（initialization methods）和销毁方法（destruction methods）。
