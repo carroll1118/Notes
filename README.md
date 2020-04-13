@@ -25,7 +25,7 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记以�
 *  [Java集合](/notes/Java集合-目录.md)
 *  [Java线程](/notes/Java线程-目录.md)
 *  [Java异常](/notes/Java异常-目录.md)
-*  [Java I/O](/notes/JavaI/O-目录.md)
+*  [Java I/O](/notes/JavaIO-目录.md)
 ## 💾 数据库
 *  [MySQL](/notes/MySQL-目录.md)
 *  [Redis](/notes/Redis-目录.md)
