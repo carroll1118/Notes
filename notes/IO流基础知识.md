@@ -1,4 +1,3 @@
-﻿@[toc]
 #  File类
 > `java.io.File` 类是文件和目录路径名的抽象表示，主要用于文件和目录的创建、查找和删除等操作。
 ## 构造方法
@@ -200,7 +199,5 @@ class DiGuiDemo3 {
 * BufferedReader：`public String readLine()`: 读一行文字。 
 * BufferedWriter：`public void newLine()`: 写一行行分隔符,由系统属性定义符号。 
 
-**你知道的越多，你不知道的越多。
-有道无术，术尚可求，有术无道，止于术。
-如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
+**你知道的越多，你不知道的越多。**
 
