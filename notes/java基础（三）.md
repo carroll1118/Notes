@@ -1,8 +1,3 @@
-﻿[java基础（一）](https://blog.csdn.net/qq_40722827/article/details/104591885)
-[java基础（二）](https://blog.csdn.net/qq_40722827/article/details/104607292)
-[java基础（三）](https://blog.csdn.net/qq_40722827/article/details/104627933)
-
-@[toc]
 ###  泛型
 * 泛型：可以将类型在类、方法、接口之间进行传递
 * 泛型遵循大驼峰命名，一般只一个大写字母表示
@@ -79,6 +74,4 @@ public static void getElement2(Collection<? super Number> coll){}
 ###  线程与进程
 ###  反射
 
-**你知道的越多，你不知道的越多。
-有道无术，术尚可求，有术无道，止于术。
-如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
+**你知道的越多，你不知道的越多。**
