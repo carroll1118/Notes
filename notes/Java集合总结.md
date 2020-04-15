@@ -1,4 +1,3 @@
-﻿@[toc]
 > 当我们需要将一些相同结构的个体整合在一起时，就可以考虑使用集合了 。
 #  集合架构
 * Java集合框架提供了一套性能优良、使用方便的接口和类，它们位于java.util包中
@@ -408,5 +407,4 @@ HashMap 比较快，因为是使用唯一的键来获取对象|	HashSet 较 Hash
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2020040316091538.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwNzIyODI3,size_16,color_FFFFFF,t_70#pic_center)
 **你知道的越多，你不知道的越多。
-有道无术，术尚可求，有术无道，止于术。
-如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
+有道无术，术尚可求，有术无道，止于术。**
