@@ -1,4 +1,3 @@
-﻿@[toc]
 > EXPLAIN 显示了 MySQL 如何使用索引来处理 SELECT 语句以及连接表。可以帮助选择更好的索引和写出更优化的查询语句。
 #  推荐阅读
 * [linux安装MySQL5.7数据库](https://blog.csdn.net/qq_40722827/article/details/105015278)
@@ -89,5 +88,4 @@ WHERE d.id = t.dep_id;
 	* `Using index for group-by`: 类似于访问表的 Using index 方式,Using index for group-by 表示 MySQL 发现了一个索引,可以用来查询 GROUP BY 或 DISTINCT 查询的所有列, 而不要额外搜索硬盘访问实际的表。
 
 **你知道的越多，你不知道的越多。
-有道无术，术尚可求，有术无道，止于术。
-如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
+有道无术，术尚可求，有术无道，止于术。**
