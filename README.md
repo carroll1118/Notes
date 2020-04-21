@@ -41,6 +41,7 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记以�
 *  [Dubbo](/notes/Dubbo-目录.md)
 *  [Zookeeper](/notes/Zookeeper-目录.md)
 *  [Nginx](/notes/Nginx-目录.md)
+*  [消息队列MQ](/notes/消息队列MQ-目录.md)
 ## ☁️ 微服务
 *  [Spring Cloud](/notes/SpringCloud-目录.md)
 *  [Spring Cloud Alibaba](/notes/SpringCloudAlibaba-目录.md)
