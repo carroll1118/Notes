@@ -14,6 +14,7 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记以�
 * [网络技术](/notes/网络技术-目录.md)
 * [设计模式](/notes/设计模式-目录.md)
 ## ✏️ 算法
+* [经典算法](/notes/经典算法-目录.md)
 * [剑指Offer](/notes/剑指Offer-目录.md)
 * [LeetCode](/notes/LeetCode-目录.md)
 ## 📝 前端
