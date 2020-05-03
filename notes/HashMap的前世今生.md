@@ -58,7 +58,4 @@ if ((p = tab[i = (n - 1) & hash]) == null)  // 如果没有hash碰撞则直接�
 如果需要线程满足安全，可以使用`HashTable`或者`Collections的synchronizedMap`方法使HashMap具有线程安全能力，也可以使用`ConcurrentHashMap` 。更多时候，为了并发性能，我们选择使用`ConcurrentHashMap`。
 
 **你知道的越多，你不知道的越多。
-有道无术，术尚可求，有术无道，止于术。
-如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
-
-
+有道无术，术尚可求，有术无道，止于术。**
