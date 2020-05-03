@@ -1,8 +1,3 @@
-##  推荐阅读
-* [JVM从入门到地狱，你想要的样子它都有（O(∩_∩)O）~~~](https://blog.csdn.net/qq_40722827/article/details/105271939)
-* [Java集合的这些知识,2020年了，你还不知道？那你就out了](https://blog.csdn.net/qq_40722827/article/details/105292181)
-* [一文深入理解Java反射机制（概念+代码示例），看完都说好~~~](https://blog.csdn.net/qq_40722827/article/details/105298189)
---------------
 > 再谈线程之前我们需要先了解以下概念。
 * `程序Program` : 程序是一段静态的代码，它是应用程序执行的蓝本
 * `进程Process` : 进程是指一种正在运行的程序，有自己的地址空间
