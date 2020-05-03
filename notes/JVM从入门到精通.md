@@ -262,8 +262,7 @@ public class Math {
 * `jinfo`：JVM Configuration info，用于实时查看和调整虚拟机运行参数
 * `jstack`: JVM stack，用于生成java虚拟机当前时刻的线程快照，以进行死锁分析等
 * `jvisual`：作用同jhat类似，常与jmap搭配使用，用于分析jmap生成的dump格式的文件
-# 面试题
-### [JVM大厂高频面试题，连这些都不知道，还敢说自己学过JVM?](https://blog.csdn.net/qq_40722827/article/details/105278081)
+
 **你知道的越多，你不知道的越多。
 有道无术，术尚可求，有术无道，止于术。
 如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
