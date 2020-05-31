@@ -42,8 +42,6 @@
 * 在synchronized优化以前，synchronized的性能是比ReenTrantLock差很多的，但是自从synchronized引入了[锁升级](https://blog.csdn.net/qq_40722827/article/details/105598682)后，两者的性能就差不多了。
 * ReentrantLock默认是非公平锁，可通过**构造传参**（true）改为公平锁。而synchronized是公平锁。
 
-**你知道的越多，你不知道的越多。
-有道无术，术尚可求，有术无道，止于术。
-如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
+**你知道的越多，你不知道的越多。有道无术，术尚可求，有术无道，止于术。**
 
 
