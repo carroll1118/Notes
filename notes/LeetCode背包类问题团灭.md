@@ -1,4 +1,3 @@
-﻿@[toc]
 #   0-1 背包问题
 ### 416. 分割等和子集
 * [原题地址](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
