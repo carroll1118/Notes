@@ -1,7 +1,7 @@
 ## ✏️ 算法
 
 * [LeetCode背包类问题团灭](/notes/LeetCode背包类问题团灭.md)
-* [LeetCode并查集(Union-Find) ](/notes/LeetCode并查集(Union-Find) 相关总结.md)
+* [LeetCode并查集(Union-Find) 相关总结](/notes/LeetCode并查集(Union-Find) 相关总结.md)
 * [LeetCode单调栈相关练习总结](/notes/LeetCode单调栈相关练习总结.md)
 * [LeetCode二分查找问题全集](/notes/LeetCode二分查找问题全集.md)
 * [LeetCode股票类问题集体秒](/notes/LeetCode股票类问题集体秒.md)
