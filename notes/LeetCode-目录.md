@@ -1,5 +1,4 @@
-## ✏️ 算法
-
+# ✏️ 算法
 * [LeetCode背包类问题团灭](/notes/LeetCode背包类问题团灭.md)
 * [LeetCode并查集(Union-Find) 相关总结](/notes/LeetCode并查集相关总结.md)
 * [LeetCode单调栈相关练习总结](/notes/LeetCode单调栈相关练习总结.md)
@@ -10,5 +9,5 @@
 * [LeetCode前缀树相关练习总结](/notes/LeetCode前缀树相关练习总结.md)
 * [LeetCode链表问题常见解题套路](/notes/LeetCode链表问题常见解题套路.md)
 
-## 💡 总结
+# 💡 总结
 - 你知道的越多，你不知道的越多。
