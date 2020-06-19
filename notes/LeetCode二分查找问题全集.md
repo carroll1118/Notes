@@ -1,4 +1,3 @@
-﻿@[toc]
 #  二分查找框架
 ```java
 int binarySearch(int[] nums, int target) {
