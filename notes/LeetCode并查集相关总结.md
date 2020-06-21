@@ -260,6 +260,71 @@ class Solution {
     }
 }
 ```
+# 128. 最长连续序列
+* 原题地址
+
+```java
+class Solution {
+    public int longestConsecutive(int[] nums) {
+        if(nums==null||nums.length==0) return 0;
+        
+        UnionFind uf = new UnionFind(nums);
+        for(int i=0;i<nums.length;i++){
+            if(uf.fatherMap.containsKey(nums[i]-1)){
+                uf.union(nums[i]-1,nums[i]);
+            }
+        }
+        return uf.max;
+    }
+    
+    public class UnionFind{
+        int max;
+        HashMap<Integer,Integer> fatherMap;
+        HashMap<Integer,Integer> sizeMap;
+        
+        public UnionFind(int[] nums){
+            max = 1;//处理nums中只有一个元素的情况下，默认为1
+            fatherMap = new HashMap<>();
+            sizeMap = new HashMap<>();
+            
+            for(int val: nums){
+                fatherMap.put(val,val);
+                sizeMap.put(val,1);
+            }
+        }
+        
+        public int findFather(int val){
+            int father = fatherMap.get(val);
+            if(father != val){
+                father = findFather(father);
+            }
+            fatherMap.put(val,father);
+            return father;
+        }
+        
+        public void union(int a,int b){
+            int aFather = findFather(a);
+            int bFather = findFather(b);
+            if(aFather != bFather){
+               int  aSize = sizeMap.get(aFather);
+               int  bSize = sizeMap.get(bFather);
+                if(aSize<=bSize){
+                    fatherMap.put(aFather,bFather);
+                    sizeMap.put(bFather,aSize+bSize);
+                }else{
+                     fatherMap.put(bFather,aFather);
+                    sizeMap.put(aFather,aSize+bSize);
+                }
+                max = Math.max(max,aSize + bSize);
+            }
+        }
+    }
+}
+```
+# 130.被围绕的区域
+# 547.朋友圈
+# 721.账户合并
+# 839.相似字符串组
 **你知道的越多，你不知道的越多。
 有道无术，术尚可求，有术无道，止于术。
 如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
