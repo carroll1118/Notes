@@ -261,7 +261,7 @@ class Solution {
 }
 ```
 # 128. 最长连续序列
-* 原题地址
+* [原题地址](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
 
 ```java
 class Solution {
@@ -325,6 +325,8 @@ class Solution {
 # 547.朋友圈
 # 721.账户合并
 # 839.相似字符串组
+
+
 **你知道的越多，你不知道的越多。
 有道无术，术尚可求，有术无道，止于术。
 如有其它问题，欢迎大家留言，我们一起讨论，一起学习，一起进步**
