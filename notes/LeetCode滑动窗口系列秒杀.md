@@ -1,4 +1,3 @@
-﻿@[toc]
 #  76. 最小覆盖子串
 * [原题地址](https://leetcode-cn.com/problems/minimum-window-substring/)
 
