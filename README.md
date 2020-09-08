@@ -47,7 +47,7 @@ Carroll的学习笔记，主要用来存放一些在学习之中做的笔记以�
 ## ☁️ 微服务
 *  [Spring Cloud](/notes/SpringCloud-目录.md)
 *  [Spring Cloud Alibaba](/notes/SpringCloudAlibaba-目录.md)
-## 📕 数据分析
+## 📕 人工智能
 * [Python](/notes/Python-目录.md)
 * [爬虫](/notes/爬虫-目录.md)
 * [Numpy](/notes/Numpy-目录.md)
